@@ -1,9 +1,8 @@
-const { Logger } = require("winston");
 
-console.log("Log Information");
-console.warn("Warn Log Information");
-console.info("Info Log Information");
-console.debug("Debug Log Information");
+console.log("console Log Information");
+console.warn("console Warn Log Information");
+console.info("console Info Log Information");
+console.debug("console Debug Log Information");
 
 /*
     npm logging has 7 leveles
