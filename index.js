@@ -21,7 +21,7 @@ console.debug("Debug Log Information");
     If you don't want to install Environmental (ENV) files then check start key in package.json
 */
 
-const logger = require("./logger/logger")
+const logger = require("./logger")
 
 logger.warn("Warn Log Information");
 logger.info("Info Log Information");
